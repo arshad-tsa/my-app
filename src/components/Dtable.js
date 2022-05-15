@@ -6,7 +6,6 @@ export default function Dtable() {
         { name: "Arshad", email: "arshad@gmail.com", contact: "9876543210" },
         { name: "Naufil", email: "naufil@gmail.com", contact: "1234567890" },
         { name: "Aaquib ", email: "aaquibk@gmail.com", contact: "7852963741" },
-        { name: "Rukhsar ", email: "rukhs@gmail.com", contact: "7894561230" },
         
       ];
   return (
